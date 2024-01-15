@@ -1,7 +1,6 @@
 # scanface
 
 Note: These codes are for calling other currently used tools without opening different terminals in the Linux terminal.
-
 In penetration tests, it performs "basic" scans on a single terminal to solve the puzzles of vulnerable machines that we can find on some sites.
 
 ## installation and use
